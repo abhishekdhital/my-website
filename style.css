@@ -19,10 +19,12 @@ p.description {
     opacity: 0.6;
 }
 
+
 nav{
     position: relative;
     top: 8vh;
 }
+
 
 .ulsocial{
     margin: 0px;
@@ -49,11 +51,13 @@ nav{
 }
 
 body {
+/*     making the background black as there was no color */
     background-color: black;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
 }
+
 
 @media (max-width: 480px) {
     p.name {
