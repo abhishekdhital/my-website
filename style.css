@@ -39,7 +39,7 @@ nav{
     display: inline;
 }
 
-.fab {
+.fab{
     color: white;
     opacity: 0.5;
     font-size: xxx-large;
@@ -75,3 +75,4 @@ body {
         top: 4vh;
     }
 }
+
