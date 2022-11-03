@@ -50,6 +50,17 @@ nav{
     opacity: 1;
 }
 
+.fas{
+    color: white;
+    opacity: 0.5;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+.fas:hover {
+    opacity: 1;
+}
+
 body {
 /*     making the background black as there was no color */
     background-color: black;
