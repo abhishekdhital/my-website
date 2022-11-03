@@ -39,19 +39,19 @@ nav{
     display: inline;
 }
 
-.fab .fas{
+.fab {
     color: white;
     opacity: 0.5;
     font-size: xxx-large;
     text-align: center;
 }
 
-/* .fas{
+.fas{
     color: white;
     opacity: 0.5;
     font-size: xxx-large;
     text-align: center;
-} */
+}
 
 .fab:hover {
     opacity: 1;
